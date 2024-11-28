@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ca9170c.css",
+    "main.js": "/static/js/main.904b4563.js",
+    "static/media/portfolioReact.png": "/static/media/portfolioReact.e8c6d8f15a1002f3d5f0.png",
+    "static/media/paisesJS.png": "/static/media/paisesJS.e3d1a01978446ad8b79e.png",
+    "static/media/foto.jpg": "/static/media/foto.81575fe87db3cc6619b5.jpg",
+    "static/media/Curriculum Vitae - Bryan Castano San Segundo.pdf": "/static/media/Curriculum Vitae - Bryan Castano San Segundo.5c693b3e8c5870dc54ee.pdf",
+    "static/media/pelotas.png": "/static/media/pelotas.68314efe3378231abd5c.png",
+    "static/media/crudUsuarios.png": "/static/media/crudUsuarios.28f4d438a68a24f031c7.png",
+    "static/media/coloresReact.png": "/static/media/coloresReact.b2cebe48e71e7bc13a88.png",
+    "static/media/paisesReact.png": "/static/media/paisesReact.9287986b46c2526e8758.png",
+    "index.html": "/index.html",
+    "main.2ca9170c.css.map": "/static/css/main.2ca9170c.css.map",
+    "main.904b4563.js.map": "/static/js/main.904b4563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca9170c.css",
+    "static/js/main.904b4563.js"
+  ]
+}
